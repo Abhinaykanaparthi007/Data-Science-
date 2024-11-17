@@ -1,1 +1,1 @@
-# Data-Science
+# MSc data scientist
